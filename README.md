@@ -11,6 +11,7 @@
 - install node:https://nodejs.org/en/
 - node -v
 - npm -v
+
 5)<a href="https://www.coursera.org/learn/front-end-react/supplement/NSs0u/exercise-instructions-basics-of-node-js-and-npm">``` Basics of node.js and npm  ```</a>
 - npm init
 - npm install lite-server --save-dev
