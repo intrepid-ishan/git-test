@@ -1,6 +1,3 @@
-# ``` git-test ```
-
-
 # USING npm
 
 1)<a href="https://www.coursera.org/learn/front-end-react/supplement/XjQZl/exercise-instructions-setting-up-git"> Setting Up GIT </a> 
